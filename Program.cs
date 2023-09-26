@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        string filePath = "C:\\wsgit\\bibleDuplicateWords\\gutenberg.org_cache_epub_10_pg10.txt";
+        string filePath = "replace with path to text file";
 
         try
         {
